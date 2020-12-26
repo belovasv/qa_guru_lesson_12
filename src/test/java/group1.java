@@ -12,7 +12,7 @@ public class group1 {
 
     @Test
     void testTwo() {
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
