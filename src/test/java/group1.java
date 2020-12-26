@@ -22,9 +22,8 @@ public class group1 {
     }
 
     @Test
-    @Disabled ("need time")
     void testFour() {
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
